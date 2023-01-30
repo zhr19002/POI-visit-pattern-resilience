@@ -1,9 +1,4 @@
-# POI-visit-patterns
-
-*The objective of this study is to explore aggregated POI visit patterns by two-digit NAICS sectors under a natural disaster.*
-
-*The dataset used in this study is from SafeGraph Inc.*
-
-- Natural disaster: Hurricane Michael making a landfall on 10/10/2018
-- Affected regions: Panama city, Panama city beach, and Lynn Haven in Florida
-- Dates consideration: September 2018 (baseline), October & November 2018 (hurricane)
+### An Enhanced Understanding of Disaster Resilience Using Points-of-interest (POI) Visit Datasets
+- Develop community resilience metrics based on human mobility patterns under a disaster.
+- Process and analyze Points-of-interest (POI) visit datasets (from SafeGraph Inc.) through Python Numpy and Pandas packages as well as Statsmodels package (for time series analysis).
+- Visualize different POI visit patterns through Python Matplotlib and Seaborn packages.
